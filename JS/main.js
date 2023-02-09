@@ -1,0 +1,1 @@
+console.log("ecooci arrivati", Vue);
